@@ -20,10 +20,10 @@ public class AdminController {
         this.roleServiceImpl = roleServiceImpl;
     }
 
-    @GetMapping
+    /*@GetMapping
     public String toUsers() {
         return "admin";
-    }
+    }*/ //Вот это прямо лишнее было
 
     @GetMapping
     public String allUser(Model model) {

@@ -72,11 +72,11 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>8.0.32</version>
     </dependency>
-    <dependency>
+    <!--<dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <optional>true</optional>
-    </dependency>
+    </dependency>-->
 
 
 
@@ -87,19 +87,19 @@
     </dependency>-->
 
 
-    <!-- https://mvnrepository.com/artifact/jakarta.persistence/jakarta.persistence-api -->
+    <!--&lt;!&ndash; https://mvnrepository.com/artifact/jakarta.persistence/jakarta.persistence-api &ndash;&gt;
     <dependency>
       <groupId>jakarta.persistence</groupId>
       <artifactId>jakarta.persistence-api</artifactId>
       <version>3.1.0</version>
     </dependency>
 
-    <!-- https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api -->
+    &lt;!&ndash; https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api &ndash;&gt;
     <dependency>
       <groupId>javax.persistence</groupId>
       <artifactId>javax.persistence-api</artifactId>
       <version>2.2</version>
-    </dependency>
+    </dependency>-->
 
 
 
